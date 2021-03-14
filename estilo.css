@@ -1,0 +1,32 @@
+body{
+     background: rgba(0, 217, 255, 0.89);
+     font: normal 15pt Arial;
+}
+
+header{
+     color: black;
+     text-align: center;/*Centralizando*/
+}
+
+section{
+     background: white;
+     border-radius: 10px; /*Bordas arredondadas*/
+     padding: 15px;/*Espaço*/
+     width: 270px;/*Largura fixa*/
+     margin: auto;/*Centralizando*/
+     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.425);/*Sombreamento*/
+}
+
+footer{
+     color: white;
+     text-align: center;
+     font-style: italic;
+
+}
+p{
+     text-align: center;
+}
+button{
+     width: 20px;  
+     border-radius: 10px;
+}
